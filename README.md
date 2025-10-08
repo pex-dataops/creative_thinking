@@ -1,8 +1,8 @@
 # creative_thinking
+## Disciplina do MBA Engenharia de Dados na FIAP
+### Turma 8ABDR - 2025
 
-Perfeito, Ricardo 🌿✨
-
-Agora que temos as quatro vozes — cada uma com sua tonalidade própria — vamos transformá-las em **um só coro conceitual**, o que Joseph Novak chamaria de *rede significativa*: uma constelação de conceitos interligados que expressam o pensamento coletivo.
+> Esta foi a jornada do Grupo 2. Chegamos até aqui ouvindo X pessoas via pesquisa e utilizamos IA para extrair valor. Cada uma das vozes trouxe sua tonalidade própria. A seguir, vamos transformá-las em **um só coro conceitual**, o que Joseph Novak chamaria de *rede significativa*: uma constelação de conceitos interligados que expressam o pensamento coletivo.
 
 A síntese abaixo segue três níveis:
 
@@ -10,7 +10,6 @@ A síntese abaixo segue três níveis:
 2. **Tensões Criativas** (os contrastes que impulsionam o pensamento).
 3. **Proposições-Chave** (as frases que poderiam ser literalmente inseridas no mapa conceitual).
 
-Tudo isso em tom artístico-reflexivo, coerente com sua assinatura de estilo — *O Engenheiro do Invisível*.
 
 ---
 
@@ -219,6 +218,5 @@ Tudo isso em tom artístico-reflexivo, coerente com sua assinatura de estilo —
 
 ---
 
-Se quiser, Ricardo, posso agora transformar essa síntese em um **modelo visual do mapa conceitual de Novak** — com os **nós interconectados**, as **relações hierárquicas** e algumas **proposições explícitas** (como “A confiança nasce da transparência”).
-
-Quer que eu monte essa **versão visual-conceitual** para você (como base para o material da disciplina)?
+💝 Agradecimentos especiais à Professora Jessica de Elói Tenório!
+⚜ Os integrantes do Grupo 2 são: Ademir, Bia, Diogo, Leo, Ricardo e Thiago. Valeu time!
