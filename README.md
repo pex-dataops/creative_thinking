@@ -2,7 +2,7 @@
 ## Disciplina do MBA Engenharia de Dados na FIAP
 ### Turma 8ABDR - 2025
 
-> Esta foi a jornada do Grupo 2. Chegamos até aqui ouvindo X pessoas via pesquisa e utilizamos IA para extrair valor. Cada uma das vozes trouxe sua tonalidade própria. A seguir, vamos transformá-las em **um só coro conceitual**, o que Joseph Novak chamaria de *rede significativa*: uma constelação de conceitos interligados que expressam o pensamento coletivo.
+> Esta foi a jornada do Grupo 2. Chegamos até aqui ouvindo 13 pessoas via pesquisa e utilizamos IA para extrair valor. Cada uma das vozes trouxe sua tonalidade própria. A seguir, vamos transformá-las em **um só coro conceitual**, o que Joseph Novak chamaria de *rede significativa*: uma constelação de conceitos interligados que expressam o pensamento coletivo.
 
 A síntese abaixo segue três níveis:
 
